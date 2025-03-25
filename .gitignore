@@ -61,3 +61,4 @@ dist-ssr
 
 backend/README.md
 backend/.dmypy.json
+azure.env
