@@ -26,7 +26,7 @@ Ahora verás que como parte del chat tienes un icono que te permite añadir serv
 
 Y puedes añadir algunos ejemplos, como el de filesystem;
 
-![MCP Servers Icon](images/Configuración%20del%20MCP%20Server%20Filesystem.png)
+![Configurar el MCP Server Filesystem](images/Configuración%20del%20MCP%20Server%20Filesystem.png)
 
 Con el nombre Filesystem y este es el comando a ejecutar:
 
@@ -36,7 +36,7 @@ npx -y @modelcontextprotocol/server-filesystem /workspaces/chainlit-demo
 
 Y la configuración quedaría algo así:
 
-![MCP Servers Icon](images/MCP%20Server%20conectado.png)
+![MCP Server Conectado](images/MCP%20Server%20conectado.png)
 
 Preguntarle algo as:
 
@@ -45,5 +45,8 @@ Puedes crearme un poema sobre la primavera en un archivo llamado poema.txt
 ```
 
 Y el resultado sería como el siguiente:
+
+![Resultado de llamar al MCP Server](images/Resultado%20de%20llamar%20al%20MCP%20Server.png)
+
 
 ¡Nos vemos 👋🏻!
