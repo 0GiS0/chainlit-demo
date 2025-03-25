@@ -41,7 +41,7 @@ Y la configuración quedaría algo así:
 Preguntarle algo as:
 
 ```
-Puedes crearme un poema sobre la primavera en un archivo llamado poema.txt
+Puedes crearme un poema sobre Model Context Protocol Servers y guardarlo en el archivo poema.txt
 ```
 
 Y el resultado sería como el siguiente:
